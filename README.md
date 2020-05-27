@@ -15,7 +15,9 @@ https://mernappiamgs.herokuapp.com/
   
   <p>I used reactStrap which was very new to me, it was fun working on this project as a whole.</p>
   <h2>##Preview</h2>
+  <h3>******MAIN UI******</h3>
   <img src="Screenshot%20(51).png"/>
+  <h3>******MongoDB UI*****</h3>
   <img src="Screenshot%20(53).png"/>
   
   <h3>##How to install in local env</h3>

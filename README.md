@@ -20,4 +20,11 @@ https://mernappiamgs.herokuapp.com/
   
   <h3>##How to install in local env</h3>
   <ul>
-  <li>Clone it {By downloading zip file or by command git clone }
+  <li>Clone it {By downloading zip file or by command git clone https://github.com/GauravSingh9356/MERN-ShoppingList.git }</li>
+  <li>npm install {To install the dependencies in your system mentioned in package.json}</li>
+   <li>Set up your MongoDB uri</li>
+  <li>npm run dev {to run server side and client side concurrently. I have installed concurrently for this, see package.json for clear picture}</li>
+  <li>Ready!!</li>
+ 
+  </ul>
+
